@@ -1,7 +1,7 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://raw.github.com/Meri-MG/portfolio---react/master/src/assets/port.png)
+![Portfolio](https://raw.githubusercontent.com/SaiPranay2011/Portfolio-V1/master/src/assets/portfolioV1.png)
 
 ## Built With
 
@@ -9,55 +9,14 @@
 - CSS
 - VS code
 
-## Live Demo
-
-- [Live Demo](https://chic-biscochitos-af5267.netlify.app/)
-
-
-# Getting Started
-## Prerequisites:
-
-
-- Create an account on github
-
-- Install gitbash or use git on the command line.
-
-- Use an IDE of your preference such as VScode.
-
-## Steps to follow:
-
-- Choose a folder in your local machine where you want this repository to be copied
-
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
-- ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
-  ```
-
-- Navigate to `cd portfolio---react`  directory.
-
-- To install all the app dependencies on the command line run
-- ```
-  npm install
-  ``` 
-- To run app in the development mode run 
-- ```
-  npm start
-  ```
-
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+:man: **C Sai Pranay**
 
-- [GitHub](https://github.com/Meri-MG)
-- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
-
-## 🤝 Contributing
-- Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Meri-MG/portfolio---react/issues).
+- [GitHub](https://github.com/SaiPranay2011)
+- [LinkedIn](https://www.linkedin.com/in/sai-pranay-chebium/)
 
 # Show your support
 Give a ⭐ if you like this project!
 
-# Acknowledgments
-Thanks to [EGATOR](https://www.youtube.com/watch?v=G-Cr00UYokU&list=WL&index=55&t=1845s) tutorial!
